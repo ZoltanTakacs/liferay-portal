@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"@ckeditor/ckeditor5-core": "46.0.3",
+		"@ckeditor/ckeditor5-core": "48.2.0",
 		"@ckeditor/ckeditor5-engine": "46.0.3",
 		"@ckeditor/ckeditor5-ui": "46.0.3",
 		"@clayui/alert": "^3.165.0",

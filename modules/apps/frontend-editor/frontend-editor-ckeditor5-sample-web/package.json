@@ -2,7 +2,7 @@
 	"dependencies": {
 		"@ckeditor/ckeditor5-basic-styles": "46.0.3",
 		"@ckeditor/ckeditor5-bookmark": "46.0.3",
-		"@ckeditor/ckeditor5-core": "46.0.3",
+		"@ckeditor/ckeditor5-core": "48.2.0",
 		"@ckeditor/ckeditor5-ui": "46.0.3",
 		"@clayui/button": "^3.165.0",
 		"frontend-editor-ckeditor-web": "*",
