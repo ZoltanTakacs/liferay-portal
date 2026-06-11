@@ -33,7 +33,7 @@ ext {
 	buildJakartaTransformerIncludeDirs = _toList(rootProject.findProperty("build.jakarta.transformer.include.dirs"))
 
 	projectTemplateTokens = [
-		"biz.aQute.bnd.version": "6.4.0",
+		"biz.aQute.bnd.version": "7.3.0",
 		"com.liferay.ant.bnd.version": "3.2.12",
 		"com.liferay.css.builder.version": "3.1.4",
 		"com.liferay.gradle.plugins.css.builder.version": "5.0.9",
@@ -66,7 +66,7 @@ if (Boolean.getBoolean("build.bnd.print.enabled")) {
 	}
 
 	dependencies {
-		bnd group: "biz.aQute.bnd", name: "biz.aQute.bnd", version: "6.4.0"
+		bnd group: "biz.aQute.bnd", name: "biz.aQute.bnd", version: "7.3.0"
 	}
 
 	repositories {
