@@ -11,7 +11,7 @@ jobs:
             -   name: Create kind cluster
                 uses: helm/kind-action@v1
             -   name: Install Helm
-                uses: azure/setup-helm@v4
+                uses: azure/setup-helm@v5
             -   name: Validate Helm chart
                 run: helm install liferay . --dry-run=server
                 working-directory: ./cloud/helm/default

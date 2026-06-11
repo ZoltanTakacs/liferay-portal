@@ -9,7 +9,7 @@ jobs:
             -   name: Checkout code
                 uses: actions/checkout@v4
             -   name: Install Helm
-                uses: azure/setup-helm@v4
+                uses: azure/setup-helm@v5
             -   name: Install helm-unittest plugin
                 run: helm plugin install --verify=false --version 1.0.3 https://github.com/helm-unittest/helm-unittest
             -   name: Set up Kubeconform
