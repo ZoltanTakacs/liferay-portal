@@ -17,7 +17,7 @@
 		"react-dom-18": "npm:react-dom@18.2.0"
 	},
 	"devDependencies": {
-		"react-dnd-test-backend": "11.1.1",
+		"react-dnd-test-backend": "16.0.1",
 		"react-dnd-test-utils": "11.1.1"
 	},
 	"main": "js/index.ts",
