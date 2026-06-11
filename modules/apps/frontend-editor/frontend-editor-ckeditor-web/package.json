@@ -7,7 +7,7 @@
 		"@ckeditor/ckeditor5-basic-styles": "46.0.3",
 		"@ckeditor/ckeditor5-block-quote": "46.0.3",
 		"@ckeditor/ckeditor5-bookmark": "46.0.3",
-		"@ckeditor/ckeditor5-case-change": "46.0.3",
+		"@ckeditor/ckeditor5-case-change": "48.2.0",
 		"@ckeditor/ckeditor5-ckbox": "46.0.3",
 		"@ckeditor/ckeditor5-ckfinder": "46.0.3",
 		"@ckeditor/ckeditor5-clipboard": "46.0.3",
