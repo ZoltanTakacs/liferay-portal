@@ -16,7 +16,7 @@
 		"@ckeditor/ckeditor5-core": "46.0.3",
 		"@ckeditor/ckeditor5-document-outline": "46.0.3",
 		"@ckeditor/ckeditor5-easy-image": "46.0.3",
-		"@ckeditor/ckeditor5-editor-balloon": "46.0.3",
+		"@ckeditor/ckeditor5-editor-balloon": "48.2.0",
 		"@ckeditor/ckeditor5-editor-classic": "46.0.3",
 		"@ckeditor/ckeditor5-editor-decoupled": "46.0.3",
 		"@ckeditor/ckeditor5-editor-inline": "46.0.3",
