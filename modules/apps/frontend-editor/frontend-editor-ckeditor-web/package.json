@@ -12,7 +12,7 @@
 		"@ckeditor/ckeditor5-ckfinder": "46.0.3",
 		"@ckeditor/ckeditor5-clipboard": "46.0.3",
 		"@ckeditor/ckeditor5-cloud-services": "46.0.3",
-		"@ckeditor/ckeditor5-code-block": "46.0.3",
+		"@ckeditor/ckeditor5-code-block": "48.2.0",
 		"@ckeditor/ckeditor5-core": "46.0.3",
 		"@ckeditor/ckeditor5-document-outline": "46.0.3",
 		"@ckeditor/ckeditor5-easy-image": "46.0.3",
