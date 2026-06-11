@@ -21,7 +21,7 @@ jobs:
                     project_id: ${{vars.GCP_PROJECT_ID_EXTERNAL_PRODUCTION}}
                     workload_identity_provider: ${{vars.GCP_WORKLOAD_IDENTITY_PROVIDER_EXTERNAL_PRODUCTION}}
             -   name: Install ORAS
-                uses: oras-project/setup-oras@v1
+                uses: oras-project/setup-oras@v2
             -   env:
                     HELM_CHART_REGISTRY_PRODUCTION: ${{vars.HELM_CHART_REGISTRY_PRODUCTION}}
                 name: Promote Helm chart
