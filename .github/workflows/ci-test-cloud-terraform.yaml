@@ -13,7 +13,7 @@ jobs:
                 with:
                     terraform_version: 1.10.0
             -   name: Set up TFLint
-                uses: terraform-linters/setup-tflint@v4
+                uses: terraform-linters/setup-tflint@v6
                 with:
                     github_token: ${{secrets.GITHUB_TOKEN}}
             -   name: Initialize Terraform
